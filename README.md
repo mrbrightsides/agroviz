@@ -10,6 +10,8 @@ AgroViz adalah platform supply chain berbasis blockchain untuk produk pertanian.
 
 Mewujudkan rantai pasok pertanian yang transparan, adil, dan terpercaya, dengan memberdayakan petani sekaligus memberi keyakinan kepada konsumen global mengenai asal-usul produk yang mereka konsumsi.
 
+---
+
 ⚙️ Fitur Utama (MVP)
 
 ✅ Registrasi produk pertanian dengan metadata (nama, asal, hash IPFS).
