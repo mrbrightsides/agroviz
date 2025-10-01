@@ -89,7 +89,6 @@ def embed_iframe(src, hide_top_px=100, hide_bottom_px=0, height=800):
     </div>
     """, height=height + hide_top_px + hide_bottom_px)
 
-# URL Ohara
 iframe_url = "https://agroviz.elpeef.com/"
 
 # Panggil fungsi
