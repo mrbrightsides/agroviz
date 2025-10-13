@@ -166,7 +166,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this 
 
 ## Links
 
-- [Repository](https://github.com/mrbrightsides/rantai-agroviz)
+- [Repository](https://github.com/mrbrightsides/agroviz)
 - [Website](https://rantai.elpeef.com)
-- [Issues](https://github.com/mrbrightsides/rantai-agroviz/issues)
-- [Pull Requests](https://github.com/mrbrightsides/rantai-agroviz/pulls)
+- [Issues](https://github.com/mrbrightsides/agroviz/issues)
+- [Pull Requests](https://github.com/mrbrightsides/agroviz/pulls)
