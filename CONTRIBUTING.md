@@ -64,7 +64,7 @@ Priority: High (accessibility for rural farmers)
 
 ```bash
 # Fork and clone the repo
-git clone https://github.com/YOUR_USERNAME/rantai-agroviz.git
+git clone https://github.com/mrbrightsides/agroviz.git
 cd rantai-agroviz
 
 # Install dependencies
